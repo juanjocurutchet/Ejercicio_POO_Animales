@@ -1,0 +1,19 @@
+PS C:\Users\ASUS\Desktop\Ejercicio_Animales> ts-node app.ts
+ListaDeAnimales {
+  animales: [
+    Gato { patas: 4, nombre: 'Pocho' },
+    Araña { patas: 8 },
+    Pez { patas: 0, nombre: 'juan' }
+  ]
+}
+true
+ListaDeAnimales {
+  animales: [ Araña { patas: 8 }, Pez { patas: 0, nombre: 'juan' } ]
+}
+true
+false
+La araña tiene 8 patas y esta caminando
+El gato Pocho esta comiendo
+El pez juan esta jugando en el agua
+El pez juan tiene 0 patas y no camina
+PS C:\Users\ASUS\Desktop\Ejercicio_Animales>
